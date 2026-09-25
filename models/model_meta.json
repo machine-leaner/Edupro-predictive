@@ -1,0 +1,45 @@
+{
+  "enrollment_model": "Ridge",
+  "enrollment_features_numeric": [
+    "CoursePrice",
+    "CourseDuration",
+    "CourseRating",
+    "AvgTeacherRating",
+    "AvgTeacherExperience",
+    "DistinctTeacherCount"
+  ],
+  "enrollment_features_categorical": [
+    "CourseCategory",
+    "CourseType",
+    "CourseLevel"
+  ],
+  "revenue_model": "Ridge",
+  "revenue_features_numeric": [
+    "CoursePrice",
+    "CourseDuration",
+    "CourseRating",
+    "AvgTeacherRating",
+    "AvgTeacherExperience",
+    "DistinctTeacherCount"
+  ],
+  "revenue_features_categorical": [
+    "CourseCategory",
+    "CourseType",
+    "CourseLevel"
+  ],
+  "forecast_model": "Lasso",
+  "forecast_features_numeric": [
+    "Lag1Enrollment",
+    "Lag1Revenue",
+    "RollingAvgEnrollment3M",
+    "CumulativeEnrollmentToDate",
+    "CoursePrice",
+    "CourseDuration",
+    "CourseRating"
+  ],
+  "forecast_features_categorical": [
+    "CourseCategory",
+    "CourseType",
+    "CourseLevel"
+  ]
+}

@@ -1,0 +1,24 @@
+feature,importance
+CourseRating,0.2333144354862731
+CourseDuration,0.2080532408458031
+DistinctTeacherCount,0.1087520401351521
+AvgTeacherExperience,0.09549363732498907
+CourseCategory_Data Science,0.07843552616820663
+AvgTeacherRating,0.06685508485718669
+CoursePrice,0.04714316787458352
+CourseLevel_Intermediate,0.03640452826870441
+CourseCategory_Digital Marketing,0.02966112846575827
+CourseLevel_Beginner,0.022276778592069894
+CourseLevel_Advanced,0.010516368997582518
+CourseCategory_Marketing,0.008126627040999963
+CourseCategory_Finance,0.007725248402015074
+CourseCategory_Artificial Intelligence,0.007156062878794866
+CourseCategory_Design,0.006812067964285768
+CourseCategory_Project Management,0.006618266410983829
+CourseType_Paid,0.006169156458962062
+CourseCategory_Programming,0.004867167006405492
+CourseType_Free,0.004552679860156727
+CourseCategory_Web Development,0.004128216441705024
+CourseCategory_Machine Learning,0.003066646091172084
+CourseCategory_Business,0.0026097652997440035
+CourseCategory_Cybersecurity,0.0012621591284657542
